@@ -1,0 +1,55 @@
+{
+  "EMUApplyConfigs": {
+    "LocalSave": "steam_settings\\saves",
+    "UseLocalSave": false,
+    "UseGoldbergExperimental": true,
+    "GenerateInterfacesFile": true,
+    "ForceGenerateInterfacesFiles": false
+  },
+  "EMUConfigs": {
+    "Language": 7,
+    "SteamID": "76561197960287930",
+    "AccountName": "Goldberg",
+    "ListenPort": "47584",
+    "CustomIP": "127.0.0.1",
+    "UseCustomIP": false,
+    "DisableNetworking": false,
+    "Offline": false,
+    "EnableOverlay": true
+  },
+  "SteamStubUnpackerConfigs": {
+    "KeepBind": true,
+    "KeepStub": false,
+    "Realign": false,
+    "ReCalcChecksum": false,
+    "UseExperimentalFeatures": false,
+    "SteamAPICheckBypassMode": 1,
+    "SteamAPICheckBypassDLL": 0,
+    "SteamAPICheckBypassNthTime": [
+      1
+    ]
+  },
+  "EMUGameInfoConfigs": {
+    "GameInfoAPI": 1,
+    "SteamWebAPIKey": "248FB866BCD33C1DDA563549D2012D8E",
+    "GenerateImages": true,
+    "UseXan105API": false,
+    "UseSteamWebAppList": false
+  },
+  "GenCrackOnlyConfigs": {
+    "OutputPath": "D:\\Denuvo Bypass\\SAC\\TEMP",
+    "CreateReadme": false,
+    "Pack": false
+  },
+  "ProcessConfigs": {
+    "GenerateEMUGameInfo": true,
+    "GenerateEMUConfig": true,
+    "Unpack": true,
+    "ApplyEMU": true,
+    "GenerateCrackOnly": false,
+    "Restore": false
+  },
+  "EnableDebugLog": false,
+  "LogToFile": false,
+  "Language": 0
+}
